@@ -85,7 +85,7 @@ The following software must be installed:
 ### :arrow_down: **Cloning the repository**
 
 ```sh
-  $ git clone https://github.com/maiquelp/happy.git
+  $ git clone https://github.com/LucasKohler/NLW-3.git
 ```
 
 <br>
