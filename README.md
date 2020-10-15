@@ -95,11 +95,11 @@ The following software must be installed:
 - :package: API
 
 ```sh
-  $ cd server
+  $ cd backend
   # Dependencies install.
   $ yarn # or npm install
   # Data base creation.
-  $ yarn knex:migrate # or npm run knex:migrate
+  $ yarn typeorm migration:run # or npm run typeorm migration:run
   # API start
   $ yarn start # or npm start
 ```
